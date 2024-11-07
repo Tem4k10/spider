@@ -1,0 +1,39 @@
+body {
+    background-color: #313641;
+}
+.section-1{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    font-size: 50px;
+}
+.spider-section{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+.spiders{
+ max-width: 200px;
+ background-color: #A74747;
+ padding: 25px;
+ 
+}
+.spiders img{
+    width: 100%;
+}
+.img-spider{
+    width: 400px;
+    margin-bottom: 20px;
+}
+.text-spider{
+    max-width: 200px;
+    height: 300px;
+    font-size: 30px;
+    text-align: right;
+}
+.footer-img{
+    width: 1800px;
+  margin-top: 50px;
+  height: 1000px;
+}
